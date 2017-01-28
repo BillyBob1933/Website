@@ -5,6 +5,17 @@
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 45px;
+  font-color: Blue;
   font-style: italic;
+  padding-top: 10px;
+  text-align: center;
+  border-radius: 100;
+  border: 2px solid black;
+}
+
+p {
+  font-size: 1em;
+  padding: 20px;
+  font-weight: bold;
 }
