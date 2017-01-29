@@ -17,12 +17,17 @@ h1 {
 
 p {
   font-size: 1em;
-  font-family: Calbria, fantasy;
+  font-family: serif;
   padding: 20px;
   font-weight: bold;
 }
 
-img {
-  height: auto;
-  width: auto;
+.all {
+  font-family: fantasy;
+  font-weight: 400;
+}
+
+#WW2 {
+  height: 50%;
+  width: 50%;
 }
