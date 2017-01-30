@@ -15,6 +15,20 @@ h1 {
   width: 50%;
 }
 
+h2 {
+  color: Maroon;
+  background-color: Black;
+  width: 35%;
+  text-align: relative;
+}
+
+h3 {
+  color: Maroon;
+  background-color: Black;
+  width: 20%;
+  text-align: center;
+}
+
 p {
   font-size: 1em;
   font-family: serif;
@@ -25,9 +39,11 @@ p {
 .all {
   font-family: fantasy;
   font-weight: 400;
+  margin: auto;
+  padding: inherit;
 }
 
 #WW2 {
-  height: 50%;
-  width: 50%;
+  height: 30%;
+  width: 80%;
 }
