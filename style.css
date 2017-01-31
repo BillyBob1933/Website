@@ -43,6 +43,11 @@ p {
   font-weight: bold;
 }
 
+.lead {
+  font-size: 33px;
+  font-weight: bold;
+}
+
 .all {
   font-family: fantasy;
   font-weight: 400;
