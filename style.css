@@ -22,7 +22,9 @@ h1 {
   color: inherit;
   background-color: red;
   font-weight: bold;
-  width: 250px;
+  width: 350px;
+  position: relative;
+  left: 115px;
 }
 
 #about {
